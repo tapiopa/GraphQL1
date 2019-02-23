@@ -2,7 +2,7 @@
 Exercise with GraphQL
 
 RUN: 
-npm install
+(npm install)
 npx nodemon index.js
 
 QUERIES: in folder queries
