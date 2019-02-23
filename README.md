@@ -1,4 +1,7 @@
 # GraphQL1
 Exercise with GraphQL
-queries:
+
+RUN: npx nodemon index.js
+
+QUERIES: in folder queries
 
